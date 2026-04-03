@@ -1,0 +1,13 @@
+.{
+    .name = .ZLua,
+    .version = "0.0.1",
+    .dependencies = .{
+        .zlua = .{
+            .url = "git+https://github.com/natecraddock/ziglua#9f5f3db7ed893000e44badc073e0f3632b731021",
+            .hash = "zlua-0.1.0-hGRpC-xTBQDwe5Mu1zKV5SB2VOY9AmSco05_vurY5jGh",
+        },
+    },
+    .minimum_zig_version = "0.15.2",
+    .paths = .{""},
+    .fingerprint = 0x948998033766b8a8,
+}

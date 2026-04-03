@@ -1,0 +1,6 @@
+--vars avail are 
+--window_width
+--window_height
+--x, y
+--width, height
+--current dir
